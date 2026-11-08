@@ -1,3 +1,43 @@
+# Projets de l'entreprise
+
+## 1. Centre de données distribué
+
+Partager la chaleur et bâtir des réseaux de calcul résilients là où cela a du sens.
+
+Ce projet travaille avec le gouvernement du Québec pour planifier et mettre en œuvre des mini centres de données dans des bâtiments résidentiels et autres, de sorte que de petites salles de centres de données puissent chauffer l'eau et les bâtiments. Il travaille également avec les fournisseurs de fibre optique, créant un réseau de calcul dense et croisé, résilient, qui maximise l'efficacité. Le travail supplémentaire lié à la distribution du centre de données est plus que compensé par l'ajout de puissance de calcul.
+
+## 2. utopi-keys
+
+Protocole d'authentification matérielle multi-points, utilisant une conception de clé de sécurité et un clavier sécurisé. Il s'agit d'une implémentation d'entrée plus sécurisée. Construit au Québec.
+
+Les clés de sécurité, comme YubiKey, fonctionnent avec le clavier et l'appareil. Pas de clé, pas de clavier. Clavier différent, impossible.
+
+Fait partie du projet de sécurisation du réseau québécois, qui aidera toutes les régions. Construction d'un protocole, d'un jeu de puces, d'une clé de sécurité et d'un clavier pour les environnements sécurisés.
+
+## 3. utopi-eyes
+
+Un ensemble d'outils de sécurité pour améliorer OSX. Un ensemble de scripts et de rapports qui informent l'utilisateur de ce qui fait quoi. Fonctionne en plus des applications de sécurité existantes.
+
+## 4. Captains-log
+
+Plateforme de journalisation agentique pour journaliser le développement d'applications, la sécurité du réseau et les rapports d'agents.
+
+## 5. event-bbs
+
+Une plateforme de gestion d'événements et de billetterie qui met en œuvre du contenu chronométré qui ne reste pas éternellement. Contenu temporel. Basé sur les nœuds. Basé sur la communauté. Conçu pour qu'un groupe fonctionne sur un serveur et gère facilement des volumes extrêmes de billets. Minimaliste. Expérimental. Outils de gestion d'événements en croissance.
+
+## 6. utopi-forensics
+
+Flux de travail de données sécurisés, audités et basés sur des événements.
+
+## 7. tbk.quebec
+
+Soutenir les coopératives artistiques et leur fournir des terrains et des espaces de performance. Reconquérir les friches, nettoyer les zones polluées et les convertir en terrains de performance et en espaces naturels. Mettre des salles de performance et des espaces de rassemblement entre les mains des coopératives artistiques au Québec, afin que les gens organisent des événements locaux et créent des micro-économies autour des sites qu'ils possèdent.
+
+Chaque salle : Construite pour l'acoustique, pour ne pas déranger les voisins, pour accueillir l'art bruyant, le cirque, les arts martiaux et d'autres types d'événements communautaires. Sûr, solide, raisonnable, toute la nuit une fois par mois.
+
+---
+
 # Company Projects
 
 ## 1. Distributed Data Center
