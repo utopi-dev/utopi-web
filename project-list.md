@@ -29,3 +29,9 @@ An event management and ticketing platform that implements timed content that do
 ## 6. utopi-forensics
 
 Secure, audited, event-based data workflows.
+
+## 7. tbk.quebec
+
+Support arts cooperatives and get them land and performance spaces. Reclaim the wastes, clean up polluted areas and convert into performance grounds and nature spaces. Putting performance halls and gathering spaces in the hands of arts cooperatives in Quebec, so that people are organizing local events and creating micro economies around the sites that the spaces that they own.
+
+Each hall: Built for acoustics, to not bother neighbours, to host loud art, circus, martial arts, and other kinds of community events. Safe, sound, reasonable, all night long once a month.
