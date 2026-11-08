@@ -23,6 +23,7 @@ Public website for [utopi.dev](https://utopi.dev).
 
 - [SPEC.md](./SPEC.md) — Technical specification and requirements
 - [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) — System architecture (coming soon)
+- [project-list.md](./project-list.md) — Company projects (French on top, English below)
 
 ## Getting Started
 

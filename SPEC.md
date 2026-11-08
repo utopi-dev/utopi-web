@@ -23,6 +23,10 @@ utopi-web is the public-facing website for **utopi.dev**. It is a Go application
 - Client-side JavaScript frameworks (React, Vue, etc.)
 - External HTTP frameworks (Gin, Echo, Fiber, etc.)
 
+## Company Projects
+
+The projects associated with utopi.dev are documented in [project-list.md](./project-list.md) (bilingual: French on top, English below).
+
 ## Technology Stack
 
 | Component     | Choice                  | Rationale                                      |
@@ -78,7 +82,8 @@ No polyfills or fallbacks will be provided.
 ├── docs/
 ├── go.mod
 ├── README.md
-└── SPEC.md
+├── SPEC.md
+└── project-list.md
 ```
 
 ## Open Questions
