@@ -6,6 +6,8 @@ Partager la chaleur et bâtir des réseaux de calcul résilients là où cela a 
 
 Ce projet travaille avec le gouvernement du Québec pour planifier et mettre en œuvre des mini centres de données dans des bâtiments résidentiels et autres, de sorte que de petites salles de centres de données puissent chauffer l'eau et les bâtiments. Il travaille également avec les fournisseurs de fibre optique, créant un réseau de calcul dense et croisé, résilient, qui maximise l'efficacité. Le travail supplémentaire lié à la distribution du centre de données est plus que compensé par l'ajout de puissance de calcul.
 
+Également en train de planifier et de placer des conceptions de centres de données plus petits pour utiliser l'excès de chaleur pour la production en serre et l'agriculture.
+
 ## 2. utopi-keys
 
 Protocole d'authentification matérielle multi-points, utilisant une conception de clé de sécurité et un clavier sécurisé. Il s'agit d'une implémentation d'entrée plus sécurisée. Construit au Québec.
@@ -45,6 +47,8 @@ Chaque salle : Construite pour l'acoustique, pour ne pas déranger les voisins, 
 Sharing heat and building resilient compute networks where it makes sense.
 
 This project works with the Quebec government to plan and implement mini data centers in residential and other buildings, such that small data center rooms can heat water and buildings. It also works with fibre optic providers, creating a densely criss-crossed, resilient compute network that maximizes efficiency. The added labour from distributing the data center is more than made up by the addition of compute.
+
+Also planning and placing smaller data center designs to use excess heat for greenhouse and agriculture production.
 
 ## 2. utopi-keys
 
